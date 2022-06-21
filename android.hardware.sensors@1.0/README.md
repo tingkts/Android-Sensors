@@ -22,7 +22,7 @@ NXP Sensors HAL (legacy HAL) :
 
 Android android.hardware.sensors@1.0 multihal
 
-Source code :
+Source code :&emsp;[➚](./draw.io/android.hardware.sensors%401.0%20multihal.drawio.png)
 
 |  module name   | source path  |
 |  ----  | ----  |

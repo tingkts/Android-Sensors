@@ -10,7 +10,7 @@ there are two path, one is the generic impl. of no multihal support, the another
 
 hardware/interfaces/sensors/2.0$ tree
 	.
-	├── default							// "android.hardware.sensors@2.0-service.mock"： executable 2.0 HIDL service (no multihal)
+	├── default						// "android.hardware.sensors@2.0-service.mock"： executable 2.0 HIDL service (no multihal)
 	│   ├── Android.bp
 	│   ├── android.hardware.sensors@2.0-service-mock.rc
 	│   ├── android.hardware.sensors@2.0.xml
